@@ -73,11 +73,3 @@ def chat_bot(message: str) -> str:
 
     return response
 
-# print(chat_bot("сколько будет корень из 9"))
-# print(chat_bot("сколько будет корень из -0"))
-# print(chat_bot("сколько будет -2.5 умножить на 9"))
-# print(chat_bot("сколько будет 3.14 плюс 13"))
-# print(chat_bot("сколько будет 2 минус  -1"))
-# print(chat_bot("сколько будет 2 разделить на 2"))
-print(chat_bot("сколько будет 2 в степени -2"))
-print(chat_bot("помощь"))
